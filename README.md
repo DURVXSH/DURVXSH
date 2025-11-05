@@ -93,7 +93,7 @@ class Developer {
 ## How to Reach Me ✉️
 - LinkedIn: https://www.linkedin.com/in/durvesh-shelar-334b02291/
 - GitHub: https://github.com/DURVXSH
-- Email: your-email@example.com (replace with your real email)
+- Email: durveshshelar@gmail.com
 
 ## Contributions & Collaboration 🤝
 Open to freelance work, collaborations, and mentorship. If you like my work, feel free to open an issue or a PR on any repo, or message me on LinkedIn.
