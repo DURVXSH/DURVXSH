@@ -35,61 +35,90 @@ I'm **Durvesh Shelar (DURVXSH)** — a passionate Full Stack Developer and probl
 > "Build thoughtfully, learn continuously, and ship often."
 
 ```typescript
-class Developer {
+class Analyst {
   name: string = "Durvesh Shelar";
   handle: string = "DURVXSH";
-  role: string = "Full Stack Developer";
+  role: string = "Data Analyst | Business Analyst";
   location: string = "India 🇮🇳";
-  workingOn: string[] = ["Web Apps", "APIs", "UI/UX Improvements", "Open Source"];
-  
+  workingOn: string[] = [
+    "Data Analysis",
+    "Power BI Dashboards",
+    "SQL",
+    "Business Intelligence",
+    "Analytics"
+  ];
+
   get skills(): Record<string, string[]> {
     return {
-      languages: ["JavaScript", "TypeScript", "Java", "Python", "HTML", "CSS"],
-      frameworks: ["React", "Next.js", "Express.js", "Node.js", "Spring Boot"],
-      databases: ["MongoDB", "MySQL", "Postgres"],
-      tools: ["Git", "Docker", "Postman", "Figma"],
-      design: ["Figma", "Adobe XD"]
+      languages: ["SQL", "Python", "DAX", "Excel"],
+      libraries: ["Pandas", "NumPy", "Matplotlib", "Plotly"],
+      visualization: ["Power BI", "Excel", "Tableau"],
+      databases: ["MySQL", "PostgreSQL", "SQL Server"],
+      tools: [
+        "Power BI",
+        "Excel",
+        "Git",
+        "Jupyter Notebook",
+        "VS Code"
+      ],
+      business: [
+        "Requirements Gathering",
+        "Data Modeling",
+        "Dashboard Design",
+        "Business Process Analysis",
+        "KPI Reporting"
+      ]
     };
   }
-  
+
   get interests(): string[] {
-    return ["System Design", "Web Performance", "Automation", "Open Source"];
+    return [
+      "Business Intelligence",
+      "Data Visualization",
+      "Predictive Analytics",
+      "Process Improvement",
+      "Machine Learning"
+    ];
   }
-  
+
   get funFact(): string {
-    return "I switch between Python and Java depending on what the problem asks for 😄";
+    return "I enjoy turning raw data into meaningful insights and interactive dashboards 📊";
   }
 }
 ```
 
-## What I Do 🎯
-- 🔨 Build responsive, accessible web applications and RESTful APIs
-- 🧩 Solve backend problems using Java (Spring Boot) and Node.js
-- 🐍 Prototype scripts and automation in Python
-- 🎨 Ship polished UIs with attention to UX and performance
-- 🌍 Contribute to open source and write about learnings
+## What I Do 📊
 
-## Current Focus 🌟
-- 🔭 Building scalable web apps and APIs
-- 🌱 Sharpening System Design, advanced React patterns, and backend architecture
-- 📚 Improving testing, CI/CD, and deployment practices
-- 🎯 2025 Goal: Make meaningful open-source contributions
+- 📈 Analyze business data to identify trends and actionable insights
+- 📊 Build interactive dashboards using Power BI and Excel
+- 🗄️ Write efficient SQL queries for data extraction and reporting
+- 🐍 Perform data cleaning, analysis, and automation using Python
+- 💼 Help businesses make data-driven decisions through KPI reporting
+
+## Current Focus 🚀
+
+- 🔭 Building advanced Power BI dashboards with DAX
+- 🌱 Strengthening SQL, Python, and Business Analytics skills
+- 📚 Learning predictive analytics and machine learning fundamentals
+- 🎯 Goal: Secure a Data Analyst / Business Analyst role and solve real-world business problems using data
 
 ## Tech Stack 🛠️
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springboot"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-</div>
 
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="sql"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="matplotlib"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter"/>
+
+</div>
 ## How to Reach Me ✉️
 - LinkedIn: https://www.linkedin.com/in/durvesh-shelar-334b02291/
 - GitHub: https://github.com/DURVXSH
